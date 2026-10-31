@@ -34,8 +34,6 @@ dependency_overrides:
   # Fleet-wide xml policy (see ../zuraffa/scripts/update_fleet.sh).
   xml: 7.1.0
   # Dev mode: resolve the core against the sibling checkout.
-  zuraffa:
-    path: ../zuraffa
 
 executables:
   zuraffa_tui:
