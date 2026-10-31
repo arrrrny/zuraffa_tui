@@ -4,7 +4,7 @@ description: >-
   DI resolver, bindings, and the `zfa tdd theater` replay, extracted from the
   core package so apps that never render a TUI stop inheriting nocterm and
   its dependency tree (zuraffa #393 / #1661).
-version: 7.3.0
+version: 7.3.2
 homepage: https://zuraffa.com
 repository: https://github.com/arrrrny/zuraffa_tui
 issue_tracker: https://github.com/arrrrny/zuraffa_tui/issues
@@ -24,7 +24,7 @@ dependencies:
   path: ^1.9.1
   # The terminal rendering engine. Pure Dart — no package:flutter (FR-012).
   nocterm: ^0.9.0
-  zuraffa: ^7.3.0
+  zuraffa: ^7.3.2
 
 dev_dependencies:
   lints: ^6.0.0
