@@ -1,9 +1,5 @@
 name: zuraffa_tui
-description: >-
-  Pure-Dart terminal UI runtime for Zuraffa — nocterm-based screens, widgets,
-  DI resolver, bindings, and the `zfa tdd theater` replay, extracted from the
-  core package so apps that never render a TUI stop inheriting nocterm and
-  its dependency tree (zuraffa #393 / #1661).
+description: Terminal UI toolkit for Zuraffa - declarative widgets, layout primitives, and interactive components for building rich Dart CLI tools.
 version: 7.6.1
 homepage: https://zuraffa.com
 repository: https://github.com/arrrrny/zuraffa_tui
