@@ -25,7 +25,7 @@ tree (~25 transitive packages, including `equatable ^2`, which conflicted with
 
 ```yaml
 dependencies:
-  zuraffa: ^7.6.0
+  zuraffa: ^7.6.1
   zuraffa_tui: ^7.3.8
 ```
 
